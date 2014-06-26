@@ -1,0 +1,228 @@
+.ui-body-c {
+	background-image:url(../css/images/bg.png);
+	background-attachment:fixed;
+	background-position: -20px;
+	margin-top: 0;
+}
+
+#plantationPage .ui-content,#welcomePage .ui-content {
+	/* width:350px; */
+	background-color:#F3F3E8;
+	margin:0 15px 0 15px;
+	padding:0
+}
+
+#plantationPage h1, #drivingPage h1, #mapPage h1, #welcome h1 {
+	font-size:19px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#addressBlock, #drivingBlock, #htmlBlock, #welcomePage #content-inner {
+	margin:15px 0 15px 0;
+	padding:15px;
+	font-size:13px;
+}
+
+#nameBlock, #mapLinkBlock {
+	height:28px;
+	margin-top:-4px;
+	padding-top:12px;
+	padding-left:15px;
+	background-image:url(images/name-bg.png);
+	color:#153A4E;
+	text-shadow:none;
+	font-weight:bold;
+	text-transform:uppercase;
+	font-size:14px
+}
+
+#mapLinkBlock a {
+	color: #153A4E;
+	text-decoration:none
+}
+
+#addressBlock {
+	font-weight: bold;
+	margin-bottom: 10px;
+	font-size:13px;
+}
+
+#headerBlock img {
+	width:100%
+}
+
+#shareBlock button {
+	width: 100%;
+	padding: 5px;
+	font-size: 18px;
+}
+
+.nopc-header {
+	background-color:#153A4E;
+	height:109px;
+	margin:-60px 15px 0 15px;
+}
+
+.header-logo, .nopc-detail-header {
+	position: fixed;
+	top: 0;
+	left:0;
+	right:0;
+}
+
+.content-home {
+  position: absolute;
+  top: 150px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+	overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
+}
+.content-detail-short {
+  position: absolute;
+  top: 50px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+	overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
+}
+.content-detail-long {
+  position: absolute;
+  top: 75px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+	overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
+}
+
+.ui-header {
+	background-color:#153A4E;
+	background-image:none;
+	margin:0 15px 0 15px;
+}
+
+.ui-header .ui-btn-inner {
+	background-color:#3F5365;
+	border:0 !important;
+	border-top:0 !important;
+	border-color:transparent;
+	text-shadow:0 !important
+}
+
+.ui-header .ui-shadow {
+	-webkit-box-shadow: 0px 0px 0px !important;
+	box-shadow: 0px 0px 0px !important;
+}
+
+.ui-header .ui-btn-up-a, .ui-header .ui-btn-hover-a {
+	border: 1px solid #153A4E !important;
+	margin-top:8px
+}
+
+#homePage .ui-link-inherit {
+	min-height:34px !important
+}
+
+div[data-role="content"] {
+	margin-bottom: 55px !important;
+}
+
+.nopc-footer {
+	background-image:url(images/footer-bg.png);
+	height:53px;
+	text-align:center;
+	margin-top:-32px;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	z-index: 11;
+}
+
+.ui-footer {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	z-index: 11;
+}
+.ui-footer .ui-btn {
+	background-image:url(images/footer-bg.png);
+	height:53px;
+	text-align:center;
+}
+
+.nopc-footer h4 {
+	padding-top:18px;
+	text-shadow:none;
+	color:white;
+	font-size:14px
+}
+
+.nopc-header-title {
+	color:white;
+	padding-top:70px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size:25px;
+	text-shadow:none !important;
+	text-align:left;
+	padding-left:15px
+}
+
+
+
+span.ui-icon {
+	background-color:#A29855
+}
+
+div.ui-content {
+	padding-top:0;
+
+}
+
+div.ui-content .ui-btn {
+	border-color:#B2AA7E;
+}
+
+
+.ui-corner-top {
+	-moz-border-radius-topleft: 		0 /*{global-radii-blocks}*/;
+	-webkit-border-top-left-radius: 	0 /*{global-radii-blocks}*/;
+	border-top-left-radius: 			0 /*{global-radii-blocks}*/;
+	-moz-border-radius-topright: 		0 /*{global-radii-blocks}*/;
+	-webkit-border-top-right-radius: 	0 /*{global-radii-blocks}*/;
+	border-top-right-radius: 			0 /*{global-radii-blocks}*/;
+}
+.ui-corner-bottom {
+	-moz-border-radius-bottomleft: 		0 /*{global-radii-blocks}*/;
+	-webkit-border-bottom-left-radius: 	0 /*{global-radii-blocks}*/;
+	border-bottom-left-radius: 			0 /*{global-radii-blocks}*/;
+	-moz-border-radius-bottomright: 	0 /*{global-radii-blocks}*/;
+	-webkit-border-bottom-right-radius: 0 /*{global-radii-blocks}*/;
+	border-bottom-right-radius: 		0 /*{global-radii-blocks}*/;
+	}
+
+.ui-content .ui-listview-inset { margin: 0 0; }
+
+#drivingPage .ui-content {
+	margin:0 15px 0 15px;
+}
+
+.ui-header .ui-title, .ui-btn-text {
+  overflow: visible !important;
+  white-space: normal !important;
+}
+
+#introVideo {
+	text-align: center;
+	margin-bottom:-5px;
+}
+
+.pname {
+	left: -22px;
+	position: relative;
+	font-size: 13px;
+}

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.neworleansplantationcountry.plantation" version="1.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Driving Tour</name>
+    <description>
+        New Orleans Plantation Country Driving Tour App
+    </description>
+    <author email="webmaster@graham-group.com" href="http://graham-group.com">
+        Graham Group Interactive
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="DisallowOverscroll" value="true" />
+</widget>

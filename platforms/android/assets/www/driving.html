@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>New Orleans Plantation Country</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="css/jquery.mobile-1.1.1.css" />
+	<script src="js/jquery.js"></script>
+	<script src="js/jquery.mobile-1.1.1.js"></script>
+	<script src="js/plantations.js"></script>
+	<script src="js/main.js"></script>
+</head>
+<body onLoad="init()">
+
+<div data-role="page" id="drivingPage">
+
+	<div data-role="header" class="nopc-detail-header" >
+		<a data-transition="slide" href="index.html" data-rel="back">BACK</a>
+		<h1 class="nopc-header-title">Driving Directions</h1>
+	</div>
+
+	<div data-role="content" style="background-color:white" class="content-detail-long">
+        <p id="drivingStatus">
+            Attempting to get driving directions based on your location. Please stand by.
+        </p>
+
+		<div id="mapdrivingdiv" style="width:100%;height:400px"></div>
+
+    </div>
+
+
+	<div data-role="footer">
+		<div data-role="navbar">
+			<ul>
+        <li><a data-transition="flip" href="index.html"><img border="0" src="css/images/icon-list.png"></a></li>
+        <li><a data-transition="flip" href="map.html"><img border="0" src="css/images/icon-map.png"></a></li>
+			</ul>
+		</div>
+	</div>
+
+
+</div>
+
+</body>
+</html>

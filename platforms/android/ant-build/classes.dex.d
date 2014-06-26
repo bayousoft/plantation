@@ -1,0 +1,21 @@
+/Users/bayousoft/cordova/plantations/plantation5/platforms/android/ant-build/classes.dex : \
+/Users/bayousoft/cordova/plantations/plantation5/platforms/android/ant-build/classes/com/neworleansplantationcountry/plantation/BuildConfig.class \
+/Users/bayousoft/cordova/plantations/plantation5/platforms/android/ant-build/classes/com/neworleansplantationcountry/plantation/DrivingTour.class \
+/Users/bayousoft/cordova/plantations/plantation5/platforms/android/ant-build/classes/com/neworleansplantationcountry/plantation/Manifest$permission.class \
+/Users/bayousoft/cordova/plantations/plantation5/platforms/android/ant-build/classes/com/neworleansplantationcountry/plantation/Manifest.class \
+/Users/bayousoft/cordova/plantations/plantation5/platforms/android/ant-build/classes/com/neworleansplantationcountry/plantation/R$attr.class \
+/Users/bayousoft/cordova/plantations/plantation5/platforms/android/ant-build/classes/com/neworleansplantationcountry/plantation/R$drawable.class \
+/Users/bayousoft/cordova/plantations/plantation5/platforms/android/ant-build/classes/com/neworleansplantationcountry/plantation/R$string.class \
+/Users/bayousoft/cordova/plantations/plantation5/platforms/android/ant-build/classes/com/neworleansplantationcountry/plantation/R$xml.class \
+/Users/bayousoft/cordova/plantations/plantation5/platforms/android/ant-build/classes/com/neworleansplantationcountry/plantation/R.class \
+/Users/bayousoft/cordova/plantations/plantation5/platforms/android/ant-build/classes/com/plugin/gcm/CordovaGCMBroadcastReceiver.class \
+/Users/bayousoft/cordova/plantations/plantation5/platforms/android/ant-build/classes/com/plugin/gcm/GCMIntentService.class \
+/Users/bayousoft/cordova/plantations/plantation5/platforms/android/ant-build/classes/com/plugin/gcm/PushHandlerActivity.class \
+/Users/bayousoft/cordova/plantations/plantation5/platforms/android/ant-build/classes/com/plugin/gcm/PushPlugin.class \
+/Users/bayousoft/cordova/plantations/plantation5/platforms/android/ant-build/classes/nl/xservices/plugins/SocialSharing$1.class \
+/Users/bayousoft/cordova/plantations/plantation5/platforms/android/ant-build/classes/nl/xservices/plugins/SocialSharing$2.class \
+/Users/bayousoft/cordova/plantations/plantation5/platforms/android/ant-build/classes/nl/xservices/plugins/SocialSharing$SocialSharingRunnable.class \
+/Users/bayousoft/cordova/plantations/plantation5/platforms/android/ant-build/classes/nl/xservices/plugins/SocialSharing.class \
+/Users/bayousoft/cordova/plantations/plantation5/platforms/android/ant-build/dexedLibs/classes-f8f5031b64fb4e7308666f3956667a88.jar \
+/Users/bayousoft/cordova/plantations/plantation5/platforms/android/ant-build/dexedLibs/gcm-766b8b03170f3fd82c697dba9854579d.jar \
+/Users/bayousoft/cordova/plantations/plantation5/platforms/android/ant-build/dexedLibs/android-support-v13-8621bcb87169b111fad8a05deacb3dca.jar \
